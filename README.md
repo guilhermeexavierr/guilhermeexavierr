@@ -28,8 +28,6 @@ I’m still at the beginning of my journey as a developer, so this profile is a 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
 ---
 
