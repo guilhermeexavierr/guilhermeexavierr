@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Guilherme+Xavier&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Computer+Engineering+Student+%7C+Software+Developer&descSize=20&descAlign=50&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4a4e69&section=header&reversal=false&text=Guilherme+Xavier&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Computer+Engineering+Student+%7C+Software+Developer&descSize=20&descAlign=50&descAlignY=55"/>
 </p>
 
 ### Welcome to my profile!
